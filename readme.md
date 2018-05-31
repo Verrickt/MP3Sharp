@@ -1,6 +1,8 @@
 # MP3Sharp
 Decode MP3 files to PCM bitstreams entirely in .NET managed code:
 <img align="center" src ="https://raw.githubusercontent.com/ZaneDubya/MP3Sharp/master/Images/MP3SharpHeader.png" />
+Retargeted to .Net Standard 2.0
+
 
 # SETUP
 To use MP3Sharp, you will need: an audio device that accepts PCM data, an array of bytes to act as the PCM data buffer (default size is 4096 bytes), and a MP3 file. That's it!
